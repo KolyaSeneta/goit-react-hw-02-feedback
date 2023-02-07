@@ -1,0 +1,19 @@
+.btnContainer{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    gap: 20px;
+    
+}
+.button  {
+    padding: 5px;
+  
+}
+
+button:focus,
+button:hover {
+    color: #fff;
+    background-color: #000fff;
+    
+    
+}

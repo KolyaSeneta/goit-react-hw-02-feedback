@@ -1,0 +1,9 @@
+.StaticsList {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+ul {
+
+   list-style: none;
+}
